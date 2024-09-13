@@ -69,20 +69,8 @@ of what you obtained from the notebooks.
 
 Crimi's project 
 
-1. Natural scene reconstruction from EEG signals using generative latent diffusion
-Inspired by fMRI paper (data and code available)
-https://www.nature.com/articles/s41598-023-42891-8
-using the OpenBCI at our lab https://openbci.com/
+1. Explainable graph network for Graph Convolutional Networks for affordable epilepsy detection with EEG with affordable devices in Africa
+   As in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3277](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3277)
 
-2.  Structure-function coupling in stroke patients
-Inspired by the healthy human connectome project (data and code available)
-https://www.sciencedirect.com/science/article/pii/S1053811920310946
-
-3. Complex networks projects
-You will be provided with final 3Dgraph, to do either graph convolutional networks or more complex networks theorertical projects
-As https://www.sciencedirect.com/science/article/pii/S1053811921005644
-https://www.biorxiv.org/content/10.1101/2022.10.04.510701v1
-The complex netwoks ideas can be discussed in person
-
-The deadline for projects is by January 23rd!!!!! As the whole evaluation has to be done by the 27th!!!!
-
+2. Translating brain tractographies with Variational Auto Encoders
+   As in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3277](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3278)
