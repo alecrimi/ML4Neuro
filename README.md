@@ -73,4 +73,7 @@ Crimi's project
    As in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3277](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3277)
 
 2. Translating brain tractographies with Variational Auto Encoders
-   As in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3277](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3278)
+   As in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3278](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3278)
+
+3. Vessel Segmentation in a Heterogeneous but Realistic Magnetic Resonance Angiography Dataset
+   As in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3279](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3279))
