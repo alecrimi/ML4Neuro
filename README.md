@@ -77,3 +77,7 @@ Crimi's project
 
 3. Vessel Segmentation in a Heterogeneous but Realistic Magnetic Resonance Angiography Dataset
    As in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3279](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3279))
+
+4. Neuroscience-inspired search-aided generation. From HippoRag to brain language networks
+   as in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3280](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3280))
+ 
