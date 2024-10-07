@@ -13,7 +13,7 @@ You can find more contact information on https://bam.sano.science/
 The goal of the course is to get familiar with neuroimaging data, and use machine learning to detect biomarkers for diseases.
 
 The course alternate 1 week Lectures/Laboratories and 1 week Projects
-There is no final exam. The grade is given by 50% on the handsout collected from the lab activities 2 weeks later, and final group project.
+There is no final exam. The grade is given by 50% on the handsout collected from the lab activities 1 week later (we switched from the 2 weeks of the last year), and final group project.
 Each group project should be composed by 3-5 people. Multiple groups can choose the same project.
 
 **Pre-requisites:**
