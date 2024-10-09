@@ -74,6 +74,10 @@ Crimi's project
 
 Recommended for 2 people
 
+2. Foundation model for zero-shot classification of causality
+
+Recommended for 3 people
+
 3. Translating brain tractographies with Variational Auto Encoders
    As in the same Thesis available: [https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3278](https://dyplom.lab.ii.agh.edu.pl/tematy/podglad/3278)
 
