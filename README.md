@@ -75,6 +75,7 @@ Crimi's project
 Recommended for 2 people
 
 2. Foundation model for zero-shot classification of causality
+   Use a foundation model to predict time series from the brain: https://github.com/google-research/timesfm
 
 Recommended for 3 people
 
