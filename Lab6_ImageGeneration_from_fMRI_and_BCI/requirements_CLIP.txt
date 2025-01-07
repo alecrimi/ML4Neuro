@@ -1,0 +1,11 @@
+# Core dependencies
+torch>=1.7.1
+torchvision>=0.8.2
+tqdm
+Pillow
+ipython
+requests
+
+# Repository dependencies (CLIP and guided-diffusion)
+-e git+https://github.com/openai/CLIP.git#egg=CLIP
+-e git+https://github.com/crowsonkb/guided-diffusion.git#egg=guided-diffusion
