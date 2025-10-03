@@ -65,4 +65,4 @@ of what you obtained from the notebooks.
 
 **Projects** 
 
-Check: [https://github.com/alecrimi/ML4Neuro/blob/main/Projects_2025.pdf] 
+Check: https://github.com/alecrimi/ML4Neuro/blob/main/Projects_2025.pdf
