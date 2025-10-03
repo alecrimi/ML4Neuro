@@ -60,6 +60,8 @@ from October 3rd until January 23rd 2024
 
 6. Generative adversarial networks in fMRI context
 
+7. ? Merging Neuroscience and AI (?)
+
 Assignments are represented as report-like document in PDF (either from Word or TEX) with screenshot and few comments
 of what you obtained from the notebooks.
 
