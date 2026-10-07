@@ -1,0 +1,14 @@
+# Requirements for Lab_2_DipyTutorial.ipynb
+# Python: 3.11
+
+dipy>=1.11,<2.0
+numpy>=1.26,<3
+scipy>=1.11,<2
+matplotlib>=3.8,<4
+scikit-learn>=1.4,<2
+
+# Jupyter
+jupyterlab>=4,<5
+notebook>=7,<8
+ipykernel>=6,<7
+ipywidgets>=8,<9
