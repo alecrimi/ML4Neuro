@@ -1,5 +1,5 @@
 # ML4Neuro:  Machine Learning applied to Neuroimaging and Neuroscience
-AGH course - 2025-2026, Course code WIIDSS.IIi2PJO.61e0295db85cc.22
+AGH course - 2026-2027, Course code WIIDSS.IIi2PJO.61e0295db85cc.22
 Second-cycle (engineer) programme 
 
 3 ECTS
@@ -26,28 +26,25 @@ Sporns, Olaf. Networks of the Brain. MIT press, 2010.
 Other papers distributed during the course
 
 **Lectures:**
-1. Introduction to neuroimaging data (date: 3.10.2025)
+1. Introduction to neuroimaging data (date: 3.10)
 
-2. Structural connectivity (date: 17.10.2025)
+2. Structural connectivity (date: 17.10)
+
+3. Intro to neuroanaotomy (date: 14.11)
    
-3. Functional connectivity (date: 31.10.2025)
+4. Functional connectivity (date: 31.10)
 
-4. EEG and wearables (date: 14.11.2025)
+5. EEG  and Graph connectivity (date: 28.11)
 
-5. Graph connectivity (date: 28.11.2025 )
+6. Causality and effective connectivity (date: 12.12)
 
-6. Causality and effective connectivity (date: 12.12.2025)
-
-7. Generative AI for Brain Activity fMRI (date: 9.1.2025)
+7. Generative AI for Brain Activity fMRI (date: 9.1)
 
 8?. Merging Neuroscience and AI (?)
 
 **Lab plans**  
-For Crimi's group: room 4.28 building D17
-
-We alternate sessions of guided lab activities and assigned projects:
-from October 3rd until January 23rd 2024 
-
+For Crimi's group:   building D17
+ 
 1. Data structures, tools, and brain tumor segmentation
    
 2. From tractography to connectoma (MRTRIX & DiPy), fiber clustering
@@ -67,4 +64,4 @@ of what you obtained from the notebooks.
 
 **Projects** 
 
-Check: https://github.com/alecrimi/ML4Neuro/blob/main/Projects_2025.pdf
+Check: https://github.com/alecrimi/ML4Neuro/blob/main/Projects2026.pdf
